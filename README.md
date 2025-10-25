@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# JOAO GALDIN
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora FRONT-END**
 
 Me chamo Joao Victor Galdin, tenho 20 anos e sou natural do Paraná Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia
 
